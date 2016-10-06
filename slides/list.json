@@ -91,6 +91,12 @@
     {
         "filename": "blank.md",
         "attr": {
+            "data-background": "images/hypnotic.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
             "data-background": "images/clooney-be-cool.gif"
         }
     },
@@ -190,10 +196,20 @@
     "ambrosia.html",
     "the-team.html",
     "ambrosia-architecture.html",
+    "why-this.md",
+    "the-data.html",
+    "etl.md",
+    "datawarehouse.html",
+    "etl.md",
+    "graph.html",
+    "api.md",
+    "etl.md",
+    "caching.md",
+    "api-gateway.md",
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "images/pokemon-party.gif"
+            "data-background": "images/picard-dance.gif"
         }
     },
     "what-weve-learnt.html",
