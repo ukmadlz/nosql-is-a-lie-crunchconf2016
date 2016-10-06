@@ -42,7 +42,7 @@
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "images/stuffed.gif"
+            "data-background": "images/morning-person.gif"
         }
     },
     {
@@ -58,6 +58,12 @@
         }
     },
     "rant.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/teaching.gif"
+        }
+    },
     {
         "filename": "blank.md",
         "attr": {
@@ -79,6 +85,7 @@
         }
     },
     "x-expert.md",
+    "80-apache-projects.md",
     "end-rant.md",
     {
         "filename": "blank.md",
@@ -178,6 +185,10 @@
             "data-background": "images/exhausted-charmander.gif"
         }
     },
+    "my-use-proof.md",
+    "ambrosia.html",
+    "the-team.html",
+    "ambrosia-architecture.html",
     {
         "filename": "blank.md",
         "attr": {

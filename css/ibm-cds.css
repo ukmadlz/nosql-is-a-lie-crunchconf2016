@@ -54,5 +54,5 @@ header, footer {
       font-style: normal;
   }
 .reveal .backgrounds {
-  background: url('../images/home-main-bg.jpg')
+  background: url('../images/crunchconf.jpg') center center fixed; 
 }
