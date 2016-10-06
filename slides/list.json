@@ -42,7 +42,7 @@
     {
         "filename": "blank.md",
         "attr": {
-            "data-background": "images/long-week.gif"
+            "data-background": "images/morning-person.gif"
         }
     },
     {
@@ -58,6 +58,12 @@
         }
     },
     "rant.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/teaching.gif"
+        }
+    },
     {
         "filename": "blank.md",
         "attr": {
